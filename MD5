@@ -1,10 +1,10 @@
-730466599a6f8bc1ad5cebbf834a2497 *DESCRIPTION
+c1c901243a5050f6cf20189394c1e508 *DESCRIPTION
 20860faaaa282dc05516b9aaffab983b *LICENSE
 73a7598057b0f77aa9a6d1869cb33afc *NAMESPACE
 d452fc7c2736adaed3e5d1f79366f95d *R/chicago_landmarks.R
 a5294d603396c7c7d32a95323031397f *R/df_to_string.R
 5d2b55fe55c0e22e44c8df39cf567937 *R/geocodeHERE-package.r
-5659ff018d6a3b5d91c5a1571aec724c *R/geocodeHERE_batch_get_data.R
+40886b43d508eaf842333723c55d9d09 *R/geocodeHERE_batch_get_data.R
 ea45b016d9f9e04f25c341c52275381e *R/geocodeHERE_batch_status.R
 4d230c6d2d5605b6f2123ddea4cda1be *R/geocodeHERE_batch_upload.R
 d579292b94b13b6f625409e81432ccfd *R/geocodeHERE_simple.R
